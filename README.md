@@ -6,9 +6,9 @@
 
 # Hi, there! <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 
-I'm **Elsayed Essam**, a Computer Science student at [Suez Canal University](https://suez.edu.eg/ar/en/) with a deep passion for web development.
+I'm **Elsayed Essam**, a Computer Science graduate from [Suez Canal University](https://suez.edu.eg/ar/en/) with a deep passion for web development.
 
-Even before graduation, I've been building real-world applications using technologies like **React**, **Node.js**, and **MongoDB**. I’m constantly exploring new tools, improving my skills, and contributing to projects that solve practical problems.
+I've been building real-world applications using technologies like **React**, **Node.js**, and **MongoDB**. I’m constantly exploring new tools, improving my skills, and contributing to projects that solve practical problems.
 
 I enjoy turning ideas into clean, efficient, and user-friendly software—and I’m always ready for the next coding challenge!
 
