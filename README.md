@@ -87,7 +87,7 @@ I enjoy turning ideas into clean, efficient, and user-friendly software—and I�
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=elsayedessam003&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elsayedessam003&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
